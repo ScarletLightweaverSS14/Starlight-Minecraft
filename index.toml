@@ -314,6 +314,11 @@ hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
 metafile = true
 
 [[files]]
+file = "mods/neosync.pw.toml"
+hash = "ea4b8b61128a96503e0f782da7f5b2e62a11d1c614ce64a45eacac5b948d6ec1"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "f0a5a2604c8d733222a25e9c19dcf443d853864ed76a388b26982be97fdea71f"
 metafile = true
