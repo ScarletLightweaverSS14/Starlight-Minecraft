@@ -113,6 +113,11 @@ hash = "e51868bce0432e8eae40ec58dea7eeb6aa3355f89aa439c0aaa59e6775ee901e"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "8295058c63b9f1d67cbe816ad84d8e1f79e281938578457429aca52ac8fadb9c"
 metafile = true
@@ -770,6 +775,26 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "c379d93611b544e20a1fec8df8b7b310a502a06083ecd14a4c9a701baf3461df"
+metafile = true
+
+[[files]]
+file = "mods/relicsofrain.pw.toml"
+hash = "5860c80b7d3bbe2e845c153db168280db46b798acfb73c5d94016f0ad762b8bc"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-ars-nouveau.pw.toml"
+hash = "a92cdd66515ce0f2e15722dd41982a976161a3c751616cd5f0602f681580f9f8"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "97d6e833cc930ad0a4ca5f33ff9dd58a2c890d310faa5d0c5f88085731566df6"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-irons-spells-n-spellbooks.pw.toml"
+hash = "b3cd735990f250d8107bb7291bbc8a507b3321744106c9091da59333b517c531"
 metafile = true
 
 [[files]]

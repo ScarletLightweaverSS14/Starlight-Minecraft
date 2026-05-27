@@ -1,0 +1,13 @@
+name = "Relics of Rain"
+filename = "relicsofrain-0.3.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LiP1PPDX/versions/Mz7gR1sd/relicsofrain-0.3.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "1699953e3d1d3ee2f70629a71737c03b90c66f67a51b3ce135c25b4d9822cd4a7a332342204b818561570f94c07077a2b75851dde609e02e4f26a68e34d46d62"
+
+[update]
+[update.modrinth]
+mod-id = "LiP1PPDX"
+version = "Mz7gR1sd"
