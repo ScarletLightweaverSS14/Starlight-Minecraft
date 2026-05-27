@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "654cd58698469e85f68dbb4e00a525a178c57885e6d0fb281d3816cf842bbae4"
+
+[[files]]
 file = "config/eccentrictome-common.toml"
 hash = "ce5e600bea7cd38475257761927c93eaf6012af7e314143b512fd9d287a50e6b"
 
