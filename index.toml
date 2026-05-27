@@ -778,11 +778,6 @@ hash = "c379d93611b544e20a1fec8df8b7b310a502a06083ecd14a4c9a701baf3461df"
 metafile = true
 
 [[files]]
-file = "mods/relicsofrain.pw.toml"
-hash = "5860c80b7d3bbe2e845c153db168280db46b798acfb73c5d94016f0ad762b8bc"
-metafile = true
-
-[[files]]
 file = "mods/reliquified-ars-nouveau.pw.toml"
 hash = "a92cdd66515ce0f2e15722dd41982a976161a3c751616cd5f0602f681580f9f8"
 metafile = true
