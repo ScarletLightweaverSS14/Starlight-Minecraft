@@ -29,3 +29,5 @@ Before submitting a mod or modpack-related pull request, ensure the following re
   - Performance impact notes
   - Server/client-side requirements
   - Configuration changes
+
+A random number to try and force the pack to update: 1
