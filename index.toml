@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "654cd58698469e85f68dbb4e00a525a178c57885e6d0fb281d3816cf842bbae4"
+hash = "ec9dc041f1060ed0966498d50f0eda12ee2caeadf9a32d4a8d58c0091ecd9df8"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
@@ -124,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "8295058c63b9f1d67cbe816ad84d8e1f79e281938578457429aca52ac8fadb9c"
+metafile = true
+
+[[files]]
+file = "mods/autoreconnectrf.pw.toml"
+hash = "627eab28e2c7985ac1484eb597d84492103eeeb0f481fd3f480078e4923ab9c9"
 metafile = true
 
 [[files]]
