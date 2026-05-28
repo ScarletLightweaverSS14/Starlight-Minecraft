@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
-hash = "2f634bd663484b9f40e28df71242d1efb10a97804ebf0a99f8bbff80a1de9174"
+hash = "afb8ba5b61502470b613e4ada1299e67a35023f6cef3670799388828b1f38981"
 
 [[files]]
 file = "kubejs/server_scripts/extereme_to_mechanical.js"
