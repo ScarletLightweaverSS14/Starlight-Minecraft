@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/carryon-common.toml"
-hash = "ec9dc041f1060ed0966498d50f0eda12ee2caeadf9a32d4a8d58c0091ecd9df8"
-
-[[files]]
 file = "config/eccentrictome-common.toml"
 hash = "ce5e600bea7cd38475257761927c93eaf6012af7e314143b512fd9d287a50e6b"
 
@@ -149,16 +145,6 @@ metafile = true
 [[files]]
 file = "mods/byte.pw.toml"
 hash = "7e4e83ee61c31d6218b6ffd3b21fe76ec45fe24a92460c0051f6a975ad4794be"
-metafile = true
-
-[[files]]
-file = "mods/carry-on.pw.toml"
-hash = "1825b381fdc21403a4b1b1e99d277f8e00454b51d4afa94e7b415e0f66fd0cb2"
-metafile = true
-
-[[files]]
-file = "mods/carryon-aeronautics-compat.pw.toml"
-hash = "575ebf4c7a4d60e8db84e1dbbfed2c9bc73cd50abd61e5f37d92ac9a97cfd900"
 metafile = true
 
 [[files]]
