@@ -637,6 +637,11 @@ hash = "c9f9996ced5f4abf2ab982bb2521bef1798cf1fc6d6ebc435e38075894921efe"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "35b03bb2dee1bcbb0436d2024d5c4803930ace5337f0380c6f1fec7a2f75a0cf"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
@@ -649,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "d7d730098fdb28da7ea837a7651f815b90a5b3cdc17ae268bc3635e546c14320"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
