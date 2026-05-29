@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dragonsurvival-server.toml"
+hash = "1ab4141e34cb73c24199ff4d29c3f84dc15259b35d060aa59e1b84b2b3fa4195"
+
+[[files]]
 file = "config/eccentrictome-common.toml"
 hash = "afb8ba5b61502470b613e4ada1299e67a35023f6cef3670799388828b1f38981"
 
