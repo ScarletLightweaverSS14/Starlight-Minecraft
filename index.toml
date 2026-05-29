@@ -762,6 +762,11 @@ hash = "bf13e18601f17a7520c0718eb6b8a951f87291c079a457cc1afbd67f42ddabab"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
 file = "mods/ponder.pw.toml"
 hash = "3c1cd694a56e09cc7d8889439fcac9212d0cde5cb76c3f1035a3b4295e669798"
 metafile = true
