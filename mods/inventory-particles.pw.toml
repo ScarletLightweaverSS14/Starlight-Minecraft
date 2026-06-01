@@ -1,18 +1,17 @@
 name = "Inventory Particles"
-filename = "InventoryParticles-2.1.0+1.21.1+neoforge.jar"
+filename = "InventoryParticles-2.2.0+1.21.1+neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/WghkDEe1/InventoryParticles-2.1.0%2B1.21.1%2Bneoforge.jar"
+url = "https://cdn.modrinth.com/data/XYnKrsxH/versions/qbUtBGFB/InventoryParticles-2.2.0%2B1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "b992d5184b5e99b4dfb71ccf1527b0c38e170a1eb98a9110e85645e5bb2582f33042dde6d883f4a630b8a25084f61bca9a8e516b3744a009073387d3a67a4c28"
-[option]
-optional = true
-default = false
-description = "Adds particles to items when they are moved around. Required by Inventory Interactions"
-
+hash = "ffb7ab529fe1c73ebdf90273e3293dce8a66017078a37efee460ada3cb825d45046d4a0a7b2318b21836d5cb777738aebd226ad38300b6db416de6865e5d5b35"
 
 [update]
 [update.modrinth]
 mod-id = "XYnKrsxH"
-version = "WghkDEe1"
+version = "qbUtBGFB"
+
+[option]
+optional = true
+description = "Adds particles to items when they are moved around. Required by Inventory Interactions"
