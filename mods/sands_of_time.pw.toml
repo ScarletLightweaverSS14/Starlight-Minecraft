@@ -1,0 +1,13 @@
+name = "Sands of Time"
+filename = "sands_of_time-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RlPpNEMQ/versions/ToRvm7Hk/sands_of_time-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "53a14aea23811fbf39a5efc469f8094dde4f2af100438e38ec4b7a7e650712816683a28fd005a1ab82791d9376beff03ed060dc220cade11ac33f280ef622ee4"
+
+[update]
+[update.modrinth]
+mod-id = "RlPpNEMQ"
+version = "ToRvm7Hk"

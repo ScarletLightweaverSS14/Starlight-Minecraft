@@ -1,0 +1,13 @@
+name = "Relics: Sable Compat"
+filename = "relics_sable_compat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HN1j7yGT/versions/DBz4f0eE/relics_sable_compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "1894164078ab079942d5dafa8c54e4319b7ed7da98f81eb63a8b43ae6b363c05a3bef47ae3046272bf02999d6f663d4951486e0f1d91a05cc6221f8a4c7c417b"
+
+[update]
+[update.modrinth]
+mod-id = "HN1j7yGT"
+version = "DBz4f0eE"

@@ -1,0 +1,13 @@
+name = "Alchemancy X Create Compat"
+filename = "alchemancy-x-create-compat-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HT9brWwn/versions/BTbuArIv/alchemancy-x-create-compat-2.1.jar"
+hash-format = "sha512"
+hash = "34964079254ec1d6b03eff80aa33866d0236b05aaf7b04dc3cfe8198adb506801cef4c324a8e636ccf304134ea198e301c2bea9f9e9d36cfc2b2831ed5a71a8a"
+
+[update]
+[update.modrinth]
+mod-id = "HT9brWwn"
+version = "BTbuArIv"

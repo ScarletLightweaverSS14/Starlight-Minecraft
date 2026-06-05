@@ -1,0 +1,13 @@
+name = "Chitinous Ties"
+filename = "chitinous_ties-2.4.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MkLZoL69/versions/7w5Vq1Lk/chitinous_ties-2.4.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "3fd3132efc001575853bc86104c7d7c0e027c664e5157c1bbcc92f85c0b2e85b30a34dafbca77f09fd36fe9ff9ecf35015be1285a9c604adaf0ad6ceba336988"
+
+[update]
+[update.modrinth]
+mod-id = "MkLZoL69"
+version = "7w5Vq1Lk"
