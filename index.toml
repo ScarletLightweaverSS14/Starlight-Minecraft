@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/tags.json"
+hash = "79e2a33004539ebbdb70fa2382f24690b5d9e3b2b0243af2f0f60320b4fbdedd"
+
+[[files]]
 file = "config/dragonsurvival-server.toml"
 hash = "7e6d44ff77f67429a533bf989741191559de89f42ceaf118ecf4ad19d1107a6e"
 
 [[files]]
 file = "config/eccentrictome-common.toml"
 hash = "3846e2ce9b909c1c5056d659b1afca286c15e89dc4e8136fe890d191892c91ee"
+
+[[files]]
+file = "kubejs/server_scripts/biosteel2way.js"
+hash = "42306060da7cee6328bbfea1f71ba8f3c2bc0369f936a7195e02c2c90063d36c"
 
 [[files]]
 file = "kubejs/server_scripts/extereme_to_mechanical.js"
