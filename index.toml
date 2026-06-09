@@ -816,6 +816,11 @@ hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
 
 [[files]]
+file = "mods/oracle-index.pw.toml"
+hash = "ffeb62193644bc2ec41c001df6a2aca8ae8d2979bc58df46ae1583fc6d5fc85a"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "f67e9d29ec5e8d081ce9d2908cb2e92eb9062d6e9d80385200b125abab32aad3"
 metafile = true
