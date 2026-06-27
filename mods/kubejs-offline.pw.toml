@@ -1,13 +1,13 @@
 name = "KubeJS Offline"
-filename = "kubejsoffline-neoforge-5.2.0.jar"
+filename = "kubejsoffline-neoforge-1.21-5.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7I1fu1km/versions/UCOSP8vx/kubejsoffline-neoforge-5.2.0.jar"
+url = "https://cdn.modrinth.com/data/7I1fu1km/versions/xRD9oM8A/kubejsoffline-neoforge-1.21-5.2.2.jar"
 hash-format = "sha512"
-hash = "1a908ba8481cce53c4e7f065b785e2586fa0d15c3c882124dc06ffb530440a50f657586ac9cf5820279800b4c5cf0f4dfa943a390ae1dbf2dc43c375b0d14fc3"
+hash = "4f0308fd74cd09a1c249fa0a4f3f1c42e0d3fa59c3d4dfbd5dbb7d1163b79f5a5abfa731a6793435bd7e0fac019b5ec9bfb01219a8acd3e8efeea2cdb10e8522"
 
 [update]
 [update.modrinth]
 mod-id = "7I1fu1km"
-version = "UCOSP8vx"
+version = "xRD9oM8A"

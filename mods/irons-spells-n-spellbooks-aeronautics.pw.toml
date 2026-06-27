@@ -1,13 +1,13 @@
 name = "Iron's Spells 'n Spellbooks-Aeronautics Compatibility"
-filename = "ironssablecompat-1.0.3.jar"
+filename = "ironssablecompat-1.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "732e9c723456af3cf6824fce75909a290a8e6944"
+hash = "8cfe21160b4ee0ddd70659620181bf0313f8470b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8110412
+file-id = 8284717
 project-id = 1544353

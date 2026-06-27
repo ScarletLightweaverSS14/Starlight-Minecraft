@@ -1,13 +1,13 @@
 name = "Cyberspace"
-filename = "Cyberspace 4.0.2 (NF1.21.1).jar"
+filename = "Cyberspace 4.1.1 (NF1.21.1).jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vR7IsaZr/versions/mapUsw9u/Cyberspace%204.0.2%20%28NF1.21.1%29.jar"
+url = "https://cdn.modrinth.com/data/vR7IsaZr/versions/9eUFDK65/Cyberspace%204.1.1%20%28NF1.21.1%29.jar"
 hash-format = "sha512"
-hash = "66146b476fcdc6b6c57cf92a188d529c324aae7fc6d9f09f651fd23136ebf891c2649bc87953d80a3421a45c785fcbb07639544f9e10447436e912da591be54a"
+hash = "7bcc152c878f432adb14a7d21aaf7ce7cb45c1fd7ac297e67258034df5e1a3021f67bcc280d8a048cb39b3cfaa37d1c21ce6ee7ae04da8a768b754fa9d199035"
 
 [update]
 [update.modrinth]
 mod-id = "vR7IsaZr"
-version = "mapUsw9u"
+version = "9eUFDK65"

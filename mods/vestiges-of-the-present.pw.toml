@@ -1,13 +1,13 @@
 name = "Vestiges of the Present"
-filename = "VestigesOfThePresent 1.21.1-1.7.0.jar"
+filename = "VestigesOfThePresent 1.21.1-1.7.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M0vIQZbt/versions/dtsSC0BW/VestigesOfThePresent%201.21.1-1.7.0.jar"
+url = "https://cdn.modrinth.com/data/M0vIQZbt/versions/PRdPPSdv/VestigesOfThePresent%201.21.1-1.7.3.jar"
 hash-format = "sha512"
-hash = "4bb0c3cff2ece0cde54dda6bceb4bc19049edbc2a074cd7339789b90d62c43e097264d3567841dbee0cbde62eb5582ffce787a8ecbc0b956b17980aa8242f472"
+hash = "731c41377619a06770568f336524093f394de36b90da81659cdfd8cbadaa36e917d449d23171bbcf8d65cb4c066a9fea491a9109d6e763801f18b9f593012a32"
 
 [update]
 [update.modrinth]
 mod-id = "M0vIQZbt"
-version = "dtsSC0BW"
+version = "PRdPPSdv"
