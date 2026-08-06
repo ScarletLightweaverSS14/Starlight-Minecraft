@@ -686,11 +686,6 @@ hash = "6c71e8e3e943568f609b67c04875acaeec6f2f474e35e1fa904ee9c862bd164c"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-offline.pw.toml"
-hash = "d104eee7da2942a060c95c180806367f6c156ed76bbd079c06c8918f8178afbd"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "5554dc0e228bb51557313dd1b0c9493c9e575390a6713a8f6415d3aede09cce0"
 metafile = true
